@@ -1,0 +1,45 @@
+#Columns: Time	Stamps_Store	Stamps_Known	Stamps_Unknown
+#Comment:	Stamps_Store - abs, Total number of distinct stamps in store, includes those that were loaded during startup
+#Comment:	Stamps_Known - diff, Number of lookups in stamps store that found a match for the stamp itself (not necessarily for the chain)
+#Comment:	Stamps_Unknown - diff, Number of lookups in stamps store that did not find the stamp at all
+#Started:	2013/08/31 12:17:53
+#Columns: Time	Stamps_Store	Stamps_Known	Stamps_Unknown
+#Comment:	Stamps_Store - abs, Total number of distinct stamps in store, includes those that were loaded during startup
+#Comment:	Stamps_Known - diff, Number of lookups in stamps store that found a match for the stamp itself (not necessarily for the chain)
+#Comment:	Stamps_Unknown - diff, Number of lookups in stamps store that did not find the stamp at all
+#Started:	2013/08/31 12:18:08
+#Columns: Time	Stamps_Store	Stamps_Known	Stamps_Unknown
+#Comment:	Stamps_Store - abs, Total number of distinct stamps in store, includes those that were loaded during startup
+#Comment:	Stamps_Known - diff, Number of lookups in stamps store that found a match for the stamp itself (not necessarily for the chain)
+#Comment:	Stamps_Unknown - diff, Number of lookups in stamps store that did not find the stamp at all
+#Started:	2013/08/31 12:19:48
+#Columns: Time	Stamps_Store	Stamps_Known	Stamps_Unknown
+#Comment:	Stamps_Store - abs, Total number of distinct stamps in store, includes those that were loaded during startup
+#Comment:	Stamps_Known - diff, Number of lookups in stamps store that found a match for the stamp itself (not necessarily for the chain)
+#Comment:	Stamps_Unknown - diff, Number of lookups in stamps store that did not find the stamp at all
+#Started:	2013/08/31 12:21:44
+#Columns: Time	Stamps_Store	Stamps_Known	Stamps_Unknown
+#Comment:	Stamps_Store - abs, Total number of distinct stamps in store, includes those that were loaded during startup
+#Comment:	Stamps_Known - diff, Number of lookups in stamps store that found a match for the stamp itself (not necessarily for the chain)
+#Comment:	Stamps_Unknown - diff, Number of lookups in stamps store that did not find the stamp at all
+#Started:	2013/08/31 12:21:49
+#Columns: Time	Stamps_Store	Stamps_Known	Stamps_Unknown
+#Comment:	Stamps_Store - abs, Total number of distinct stamps in store, includes those that were loaded during startup
+#Comment:	Stamps_Known - diff, Number of lookups in stamps store that found a match for the stamp itself (not necessarily for the chain)
+#Comment:	Stamps_Unknown - diff, Number of lookups in stamps store that did not find the stamp at all
+#Started:	2013/08/31 12:22:01
+#Columns: Time	Stamps_Store	Stamps_Known	Stamps_Unknown
+#Comment:	Stamps_Store - abs, Total number of distinct stamps in store, includes those that were loaded during startup
+#Comment:	Stamps_Known - diff, Number of lookups in stamps store that found a match for the stamp itself (not necessarily for the chain)
+#Comment:	Stamps_Unknown - diff, Number of lookups in stamps store that did not find the stamp at all
+#Started:	2013/08/31 12:22:18
+#Columns: Time	Stamps_Store	Stamps_Known	Stamps_Unknown
+#Comment:	Stamps_Store - abs, Total number of distinct stamps in store, includes those that were loaded during startup
+#Comment:	Stamps_Known - diff, Number of lookups in stamps store that found a match for the stamp itself (not necessarily for the chain)
+#Comment:	Stamps_Unknown - diff, Number of lookups in stamps store that did not find the stamp at all
+#Started:	2013/08/31 12:24:19
+#Columns: Time	Stamps_Store	Stamps_Known	Stamps_Unknown
+#Comment:	Stamps_Store - abs, Total number of distinct stamps in store, includes those that were loaded during startup
+#Comment:	Stamps_Known - diff, Number of lookups in stamps store that found a match for the stamp itself (not necessarily for the chain)
+#Comment:	Stamps_Unknown - diff, Number of lookups in stamps store that did not find the stamp at all
+#Started:	2013/08/31 12:24:28
